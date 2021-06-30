@@ -103,7 +103,7 @@ form {
 .form-img {
   flex-basis: 39%;
   text-align: center;
-  background: var(--image-filter) url("../Assets/Rectangle-5.png");
+  background: var(--image-filter) url("../assets/Rectangle-5.png");
   background-size: cover;
   position: relative;
   background-repeat: no-repeat;

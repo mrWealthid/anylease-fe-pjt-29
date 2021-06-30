@@ -62,7 +62,7 @@ label {
 }
 .form-wrapper {
   flex-basis: 61%;
-  margin: 50px 0px;
+  margin: 60px 0px;
   padding-left: 5px;
 }
 
@@ -93,7 +93,7 @@ form {
 .form-img {
   flex-basis: 39%;
   text-align: center;
-  background: var(--image-filter) url("../Assets/Rectangle-5.png");
+  background: var(--image-filter) url("../assets/Rectangle-5.png");
   background-size: cover;
   position: relative;
   background-repeat: no-repeat;
@@ -142,7 +142,8 @@ form {
   top: 38px;
 }
 
-input:focus {
+#password:focus,
+#email:focus {
   border: 2px solid var(--Primary-blue);
 }
 

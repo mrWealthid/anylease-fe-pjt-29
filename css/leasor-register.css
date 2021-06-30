@@ -108,10 +108,10 @@ form {
 .form-img {
   flex-basis: 39%;
   text-align: center;
-  background: var(--image-filter) url(../Assets/left-side.png);
-  background-size: 466px 1000px;
+  background: var(--image-filter) url(../assets/left-side.png);
+  background-size: 525px 1000px;
   position: relative;
-  background-position: -24px -52px;
+  background-position: -30px -52px;
   overflow: hidden;
   background-repeat: no-repeat;
 }
